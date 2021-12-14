@@ -5,7 +5,7 @@ My name is Hakkı, I am a computer engineer and actively a flutter developer, I 
 Yes, nice to meet you!
 
 
-<img class="giphy-gif-img" src="https://media.giphy.com/media/2aGCAWCsGbHWxfUL3C/giphy.gif" width="248" height="140" alt="star wars ok GIF" style="background: rgb(255, 102, 102);">
+<img class="giphy-gif-img" src="https://media.giphy.com/media/2aGCAWCsGbHWxfUL3C/giphy.gif" width="360" height="240" alt="star wars ok GIF" style="background: rgb(255, 102, 102);">
 
 
 ##### Contact me 📫
