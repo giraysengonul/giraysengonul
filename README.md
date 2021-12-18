@@ -1,6 +1,4 @@
 ### Hi there
-//<img class="https://media.giphy.com/media/pj30mdklB3FaaoFoOv/giphy.gif" width="130" height="125" alt="star wars ok GIF" style="background: rgb(255, 102, 102);">
-
 
 My name is Hakkı, I am a computer engineer and actively a flutter developer, I studied at Fırat University -Turkey. <br/>
 Yes, nice to meet you!
