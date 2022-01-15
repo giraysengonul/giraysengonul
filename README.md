@@ -11,7 +11,8 @@ Yes, nice to meet you!
 
 You can also find me on these accounts!
 
-[<img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram logo" width="24">](https://www.instagram.com/cansngnl/)
+
 [<img src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png" alt="LinkedIn logo" width="24">](https://www.linkedin.com/in/hakkicansengonul/)
+[<img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="Instagram logo" width="24">](https://www.instagram.com/cansngnl/)
 [<img src="https://cdn.pixabay.com/photo/2015/03/10/17/30/twitter-667462_1280.png" alt="Medium logo" width="24">](https://twitter.com/Cansngnl)
 
