@@ -8,7 +8,7 @@ Yes, nice to meet you!
 
 <br>
 
-<div align='center'>
+<div align='start'>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
