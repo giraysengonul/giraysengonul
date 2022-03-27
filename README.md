@@ -6,7 +6,15 @@ Yes, nice to meet you!
 
 <img class="giphy-gif-img" src="https://media.giphy.com/media/l4FGztRST7RVKUhoI/giphy.gif" width="360" height="240" alt="star wars ok GIF" style="background: rgb(255, 102, 102);">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height ="40"/>
+<br>
+
+<div align='center'>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
 
 ##### Contact me 📫
 
