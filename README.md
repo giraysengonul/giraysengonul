@@ -37,5 +37,5 @@ src="https://img.shields.io/github/followers/hakkicansengonul?logo=github&style=
 
 
 ### Support Me
-
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="hakkican" data-color="#5F7FFF" data-emoji=""  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 <a href="https://www.buymeacoffee.com/hakkican"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
