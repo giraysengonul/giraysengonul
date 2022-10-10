@@ -4,7 +4,7 @@ Hi 👋 My name is Hakkı
 I'm a  Computer Engineer !
 -------------------------
 
-* 🌍  I'm based in Turkey/Kayseri
+* 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [My Portfolio](https://hakkicansengonul.github.io/)
 * ✉️  You can contact me at [coder.9734@gmail.com](mailto:coder.9734@gmail.com)
 * 🚀  I'm currently working on [I’m currently working on a iOS Project!]
