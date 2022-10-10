@@ -1,7 +1,7 @@
 Hi 👋 My name is Hakkı
 ======================
 
-I'm a Software Developer || Computer Engineer !
+I'm a  Computer Engineer !
 -------------------------
 
 * 🌍  I'm based in Turkey/Kayseri
