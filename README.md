@@ -25,17 +25,3 @@ src="https://img.shields.io/github/followers/hakkicansengonul?logo=github&style=
 ### Socials
 
 <p align="left"> <a href="https://github.com/hakkicansengonul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hakkicansengonul/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/hakkicansengonul"><img src="https://github-readme-stats.vercel.app/api?username=hakkicansengonul&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hakkicansengonul's GitHub stats" /></a>
-
-<a href="https://github.com/hakkicansengonul"><img src="https://activity-graph.herokuapp.com/graph?username=hakkicansengonul&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/hakkican"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
