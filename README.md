@@ -8,7 +8,6 @@ I'm a  Computer Engineer !
 * 🖥️  See my portfolio at [My Portfolio](https://hakkicansengonul.github.io/)
 * ✉️  You can contact me at [hakkicansengonul@gmail.com](mailto:hakkicansengonul@gmail.com)
 * 🚀  I'm currently working on [I’m currently working on a iOS Project!]
-* 🧠  I'm learning I’m currently learning Flutter, Swift etc.
 * ⚡  I love to explore new repositories
  <br>
     <img  height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
