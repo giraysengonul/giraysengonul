@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [InConfer, Modos](https://apps.apple.com/us/developer/hakki-can-sengonul/id1658040033)
 
-- 🌱 I’m currently learning **Deepest swift topics**
+- 🌱 I'm currently learning deep Swift topics**
 
 - 👯 Check out my software trainings [Udemy](https://www.udemy.com/user/hakki-194/)
 
