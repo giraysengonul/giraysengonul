@@ -15,7 +15,7 @@
 
 - **💬 You can ask me about Swift, SwiftUI, UIKit, Core Data, and iOS performance optimization.**
 
-- **📫 How to reach me **giraysengonul@gmail.com**
+- **📫 How to reach me **giraysengonul@gmail.com****
 
 - ⚡ Fun fact **In my free time, I enjoy developing gamified mini-projects to solve challenges I encounter during iOS app development.**
 
