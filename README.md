@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋, I'm Giray</h1>
 <h3 align="center">A passionate iOS Developer from Turkey, crafting seamless and innovative mobile experiences.</h3>
 
-- 🔭 I’m currently working on **🔭 I am currently working on an innovative iOS application aimed at optimizing user experience and leveraging the latest iOS features.**
+- **🔭 I am currently working on an innovative iOS application aimed at optimizing user experience and leveraging the latest iOS features.**
 
-- 🌱 I’m currently learning **Currently, I’m diving deep into SwiftUI and the Combine framework. I’m also staying up-to-date with the latest developments in the iOS ecosystem.**
+- **🌱 Currently, I’m diving deep into SwiftUI and the Combine framework. I’m also staying up-to-date with the latest developments in the iOS ecosystem.**
 
-- 👯 I’m looking to collaborate on **I’m open to collaborating on projects involving technologies like Swift, SwiftUI, and ARKit. Together, we can create creative and effective solutions.**
+- **👯 I’m open to collaborating on projects involving technologies like Swift, SwiftUI, and ARKit. Together, we can create creative and effective solutions.**
 
-- 🤝 I’m looking for help with **I’m developing an open-source iOS library and welcome contributions from the community. If you're skilled in Swift and want to contribute, I’d love to work with you.**
+- **🤝 I’m developing an open-source iOS library and welcome contributions from the community. If you're skilled in Swift and want to contribute, I’d love to work with you.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/giraysengonul?tab=repositories](https://github.com/giraysengonul?tab=repositories)
+- **👨‍💻 All of my projects are available at [https://github.com/giraysengonul?tab=repositories](https://github.com/giraysengonul?tab=repositories)**
 
-- 📝 I write articles on iOS development and mobile technologies. [https://medium.com/@giraysengonul](https://medium.com/@giraysengonul)
+- **📝 I write articles on iOS development and mobile technologies. [https://medium.com/@giraysengonul](https://medium.com/@giraysengonul)**
 
-- 💬 Ask me about **You can ask me about Swift, SwiftUI, UIKit, Core Data, and iOS performance optimization.**
+- **💬 You can ask me about Swift, SwiftUI, UIKit, Core Data, and iOS performance optimization.**
 
-- 📫 How to reach me **giraysengonul@gmail.com**
+- **📫 How to reach me **giraysengonul@gmail.com**
 
 - ⚡ Fun fact **In my free time, I enjoy developing gamified mini-projects to solve challenges I encounter during iOS app development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giray-sengonul-168420318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giray-sengonul-168420318/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/girayengnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/girayengnl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/giray-sengonul-168420318/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giray-sengonul-168420318/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/girayengnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/girayengnl" height="30" width="40" /></a>
 <a href="https://medium.com/@giraysengonul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giraysengonul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/giraysengonul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/giraysengonul/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/giraysengonul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/giraysengonul/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
