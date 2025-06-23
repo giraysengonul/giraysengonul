@@ -1,23 +1,41 @@
-<h1 align="center">Hi 👋, I'm Giray</h1>
-<h3 align="center">A passionate iOS Developer from Turkey, crafting seamless and innovative mobile experiences.</h3>
+<h1 align="center">Hi there, I'm Giray 👋</h1>
 
-- **🔭 I am currently working on an innovative iOS application aimed at optimizing user experience and leveraging the latest iOS features.**
+<p align="center">
+  📊 Junior Data Analyst | 📱 Former iOS Developer<br>
+  📍 Based in Türkiye | 💡 Passionate about data & insights
+</p>
 
-- **🌱 Currently, I’m diving deep into SwiftUI and the Combine framework. I’m also staying up-to-date with the latest developments in the iOS ecosystem.**
+---
 
-- **👯 I’m open to collaborating on projects involving technologies like Swift, SwiftUI, and ARKit. Together, we can create creative and effective solutions.**
+### 👨‍💻 About Me
 
-- **🤝 I’m developing an open-source iOS library and welcome contributions from the community. If you're skilled in Swift and want to contribute, I’d love to work with you.**
+- 🎓 I started my career as an iOS Developer  
+- 🔁 Transitioned into Data Analytics to combine logic and storytelling  
+- 💬 I enjoy working with **data**, building **interactive dashboards**, and exploring **patterns behind numbers**  
+- 🚀 Currently focused on building a strong portfolio and growing toward Data Science  
 
-- **👨‍💻 All of my projects are available at [https://github.com/giraysengonul?tab=repositories](https://github.com/giraysengonul?tab=repositories)**
+---
 
-- **📝 I write articles on iOS development and mobile technologies. [https://medium.com/@giraysengonul](https://medium.com/@giraysengonul)**
+### 🛠️ Tech Stack
 
-- **💬 You can ask me about Swift, SwiftUI, UIKit, Core Data, and iOS performance optimization.**
+- **Languages:** Python, SQL, Swift  
+- **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau, Xcode  
+- **Concepts:** EDA, Data Cleaning, Visualization, Dashboarding, KPI Tracking, A/B Testing  
 
-- **📫 How to reach me **giraysengonul@gmail.com****
+---
 
-- ⚡ Fun fact **In my free time, I enjoy developing gamified mini-projects to solve challenges I encounter during iOS app development.**
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/giraysengonul)
+- 🌐 [Portfolio Website](#) <!-- replace with real link -->
+- 📬 giraysengonul@gmail.com  
+
+---
+
+### ✨ Fun Fact
+
+I love turning raw data into clear, visual stories — and I believe every dataset has a hidden insight waiting to be found.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
