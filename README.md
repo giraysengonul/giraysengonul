@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Giray 👋</h1>
 
 <p align="center">
-  📊 Junior Data Analyst | 📱 Former iOS Developer<br>
+  📊 Data Analyst 
   📍 Based in Türkiye | 💡 Passionate about data, insights, and building meaningful solutions
 </p>
 
@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I started my journey as an iOS Developer  
 - 🔁 Transitioned into **Data Analytics** to combine my love for logic, detail, and business problem solving  
 - 📊 I analyze, visualize, and communicate data-driven insights that support better decisions  
 - 💡 My goal is to become a Data Scientist with strong foundations in real-world analytics  
