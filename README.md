@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://giraysengonul.cv/">
+<a href="https://giraysengonul.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=Data+Analyst+%E2%9C%A6+Data+Scientist;Turning+Raw+Data+Into+Strategic+Decisions;Statistical+Modeling+%E2%80%A2+Machine+Learning+%E2%80%A2+BI;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Scikit-learn+%E2%80%A2+TensorFlow;Where+numbers+end%2C+stories+begin+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
