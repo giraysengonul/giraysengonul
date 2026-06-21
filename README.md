@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&labelColor=000000" alt="Status"/>
 </p>
 
-<a href="https://www.linkedin.com/in/giray-sengonul-168420318/">
+<a href="https://www.linkedin.com/in/giray-sengonul">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://giraysengonul.cv/">
+<a href="https://giraysengonul.com/">
   <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:giraysengonul@gmail.com">
